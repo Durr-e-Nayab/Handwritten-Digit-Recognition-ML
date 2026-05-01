@@ -12,7 +12,7 @@ This project is part of my internship at **SoftGrowTech**. It uses Machine Learn
 - **Performance Report**: Achieved a 0.97 F1-score across most classes.
 
 ## 📸 Screenshots
-(Yahan aapne jo screenshots upload kiye hain, unke naam likh den ya unhein drag karke yahan paste kar den)
+confusion matrix,Graph,terminal output
 
 ## 🛠️ How to run
 1. Clone the repo.
